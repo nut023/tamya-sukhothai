@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "req-1793249696421",
+    "patientName": "นายสมชาย มั่นคง",
+    "patientHN": "HN-650421",
+    "patientCID": "1640100234567",
+    "sourceHospitalId": "sawankhalok",
+    "sourceHospitalName": "โรงพยาบาลสวรรคโลก",
+    "targetHospitalId": "sukhothai",
+    "targetHospitalName": "โรงพยาบาลสุโขทัย",
+    "urgency": "high",
+    "medicationDetails": "ขอประวัติยาโรคเบาหวาน ความดันโลหิตสูง และประวัติการใช้ยาฉีดอินซูลินเดิม ผู้ป่วยหมดสติมาที่ ER",
+    "contactPerson": "ภก.สิทธิชัย ดวงดี",
+    "contactPhone": "055-641951 ต่อ 108",
+    "contactDirectPhone": "081-987-6543",
+    "contactLineId": "@swk_rx_urgent",
+    "status": "pending",
+    "createdAt": "2026-10-29T04:42:56.421Z",
+    "acceptedAt": null,
+    "acceptedBy": null,
+    "notes": "ผู้ป่วยจำประวัติยาเดิมไม่ได้ ญาติแจ้งว่าเพิ่งรับยาจาก รพ.สุโขทัย เมื่อสัปดาห์ก่อน"
+  }
+]
